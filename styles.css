@@ -1,0 +1,168 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    text-align: center;
+    font-family: 'Raleway';
+}
+
+
+
+/* H1-H6's, p */
+h1 {
+    color: #eeeeee;
+    font-size: 2.5rem;
+}
+
+h2 {
+    color: #393e46;
+}
+
+h3 {
+    color: #393e46;
+}
+
+p {
+    color: #393e46;
+    font-family: 'Open Sans';
+}
+
+/* Sections */
+.colored-section {
+    background-color: #222831;
+}
+
+.white-section {
+    background-color: #eeeeee;
+}
+
+.nav-section {
+    background-color: #222831;
+}
+
+/* Nav Bar */
+
+.navbar {
+    padding: 10px 0;
+    margin: 0 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+    text-align: right;
+}
+
+.nav-text {
+    color: white;
+}
+
+/* Introduction */
+
+.middle-content {
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Raleway', ;
+}
+
+.main-simplipy {
+    font-size: 4rem;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    font-family: 'Raleway';
+    color: #EBC944;
+}
+
+.buttons-start {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+/* Buttons and Icons */
+.download-button {
+    margin: 2% 2% 2% 0;
+}
+
+.button-icon {
+    padding-right: 6px;
+}
+
+/* What is Simplipy */
+
+.aboutSimplipy {
+    padding-top: 70px;
+    padding-bottom: 50px;
+    width: 60%;
+    height: auto;
+    margin: auto;
+}
+
+.description {
+    width: 60%;
+    margin: auto;
+}
+
+.column-changes {
+    padding: 4% 0;
+}
+
+
+/* Download Here */
+
+.downloadHere {
+    padding-top: 100px;
+    width: 70%;
+    height: auto;
+    margin: auto;
+}
+
+.text-decoration {
+    padding-top: 15px;
+    color: #EEE;
+}
+
+.buttons-download {
+    padding: 35px 0 42px 0;
+}
+
+/* About Us */
+
+.about-us {
+    width: 50%;
+    margin: auto;
+    height: auto;
+    padding-top: 100px;
+}
+
+.membersList {
+    margin-top: 60px;
+    padding-bottom: 80px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 15px 30px 0 0;
+    margin: 0;
+}
+
+/* Footer */
+
+footer {
+    padding: 10px;
+}
+
+.footerText {
+    color: black;
+    opacity: 50%;
+}
